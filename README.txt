@@ -1,4 +1,4 @@
-HR Analytics Dashboard PowerBI
+(HR Analytics Dashboard PowerBI)
 
 Contents:
 - Data Cleaning & Processing in Power BI
