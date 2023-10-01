@@ -1,6 +1,7 @@
 (HR Analytics Dashboard PowerBI)
 
-Contents:
+Project Contents:
+
 - Data Cleaning & Processing in Power BI
 - Power BI Dashboard Setup
 - Import data in Power BI
