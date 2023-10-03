@@ -15,7 +15,7 @@ Project Contents:
 - Insights from Dashboard 
 
 
-Link: https://github.com/kashifrasool/HR-Analytics-Dashboard-PowerBI
+Link to check project files: https://github.com/kashifrasool/HR-Analytics-Dashboard-PowerBI
 
 
 
