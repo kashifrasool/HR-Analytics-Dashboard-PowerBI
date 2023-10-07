@@ -17,6 +17,6 @@ Project Contents:
 
 Link: https://github.com/kashifrasool/HR-Analytics-Dashboard-PowerBI
 
-
+Any feedback would be much appreciated :)
 
 Kashif Rasool
