@@ -19,4 +19,6 @@ Link to check project files: https://github.com/kashifrasool/HR-Analytics-Dashbo
 
 Any feedback would be much appreciated :)
 
+Thanks!
+
 Kashif Rasool
